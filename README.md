@@ -1,7 +1,7 @@
 # woowahan-tech-precourse
 
 
-링크
+우아한 테크코스 프리코스 4주간 구현한 미션에 대한 링크 및 회고입니다.
 
 ➡️ [1주차 프리온보딩](https://github.com/penrose15/java-onboarding)
 
